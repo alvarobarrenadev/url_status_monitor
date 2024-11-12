@@ -11,7 +11,7 @@ This project monitors the status of a list of URLs and logs their availability t
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/alvarobarrena02/website_conectivity_checker.git
     cd website_conectivity_checker
     ```
 
@@ -42,3 +42,7 @@ This project monitors the status of a list of URLs and logs their availability t
 ## Example Output
 
 The `status.txt` file will contain entries like:
+```
+2024-11-12 13:38:53 - https://www.google.com - 200 OK
+2024-11-12 13:39:40 - https://www.example.com - Error 404
+```

@@ -14,7 +14,7 @@ def check_url_status(url):
 
         # Verify the response status
         if response.status == 200:
-            return "Sitio web disponible"
+            return f"{response.status} OK"
         else:
             return f"Error: {response.status}"
     except Exception as e:
