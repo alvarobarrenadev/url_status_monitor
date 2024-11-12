@@ -11,7 +11,7 @@ This project monitors the status of a list of URLs and logs their availability t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/alvarobarrena02/website_conectivity_checker.git
+    git clone https://github.com/alvarobarrena02/url_status_monitor.git
     cd website_conectivity_checker
     ```
 
