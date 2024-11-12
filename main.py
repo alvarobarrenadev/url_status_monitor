@@ -16,7 +16,7 @@ def check_url_status(url):
         if response.status == 200:
             return f"{response.status} OK"
         else:
-            return f"Error: {response.status}"
+            return f"{response.status} Error"
     except Exception as e:
         return f"Error: {e}"
 

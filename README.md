@@ -44,5 +44,5 @@ This project monitors the status of a list of URLs and logs their availability t
 The `status.txt` file will contain entries like:
 ```
 2024-11-12 13:38:53 - https://www.google.com - 200 OK
-2024-11-12 13:39:40 - https://www.example.com - Error 404
+2024-11-12 13:39:40 - https://www.example.com - 404 Error
 ```
