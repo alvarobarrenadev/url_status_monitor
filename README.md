@@ -24,7 +24,7 @@ This project monitors the status of a list of URLs and logs their availability t
 
 1. Run the script to monitor the URLs:
     ```sh
-    python main.py
+    python3 main.py
     ```
 
 2. The script will check the status of the URLs and log the results to `status.txt`.
