@@ -11,8 +11,8 @@ This project monitors the status of a list of URLs and logs their availability t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/alvarobarrena02/url_status_monitor.git
-    cd rl_status_monitor
+    git clone https://github.com/alvarobarrenadev/url_status_monitor.git
+    cd url_status_monitor
     ```
 
 2. Install the required library:
